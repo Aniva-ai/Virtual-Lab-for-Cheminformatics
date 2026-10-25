@@ -1,4 +1,4 @@
-# Computational Chemistry Virtual Laboratory
+# Virtual Laboratory
 
 An undergraduate teaching application based on the structure of the supplied reference `app.py`, with molecular input, 2D and 3D visualization, molecular descriptors, structure-property comparison, quiz assessment, and PDF/CSV export.
 
